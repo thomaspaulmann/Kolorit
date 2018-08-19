@@ -1,0 +1,2 @@
+# Kolorit
+A color palette.
