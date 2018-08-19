@@ -1,3 +1,3 @@
 # Kolorit
 
-A simple color palette for hackers in their terminal and editors of choice. 
+A simple color palette for hackers for their terminal and editors of choice. 
